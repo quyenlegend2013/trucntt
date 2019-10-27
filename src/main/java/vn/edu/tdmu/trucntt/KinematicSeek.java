@@ -32,6 +32,8 @@ public class KinematicSeek {
 	}
 	public KinematicOuput getKinematicOutput()
 	{
+		KinematicOuput kinematicOuput=new KinematicOuput();
+		kinematicOuput.setLinear();
 		return null;
 	}
 	

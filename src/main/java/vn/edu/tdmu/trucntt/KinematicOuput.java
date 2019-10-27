@@ -9,9 +9,6 @@ public class KinematicOuput {
 		return linear;
 	}
 	
-	
-	
-
 	public void setLinear(Vector2D linear) {
 		this.linear = linear;
 	}
